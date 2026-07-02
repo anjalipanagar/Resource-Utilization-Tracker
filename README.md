@@ -26,7 +26,7 @@ A lightweight Streamlit application for real-time system monitoring and OS memor
 
 ```bash
 git clone https://github.com/anjalipanagar/Resource-Utilization-Tracker.git
-cd System_Resource_Monitor
+cd System_Resource_Monitor-main
 ```
 
 ### 2. Create a Virtual Environment
@@ -74,7 +74,6 @@ Open the URL displayed in the terminal (usually `http://localhost:8501`).
 ```text
 System_Resource_Monitor/
 ├── app.py
-├── requirements.txt
 └── README.md
 ```
 
