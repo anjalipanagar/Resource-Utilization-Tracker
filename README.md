@@ -25,7 +25,7 @@ A lightweight Streamlit application for real-time system monitoring and OS memor
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/BhargavDevi/System_Resource_Monitor.git
+git clone https://github.com/anjalipanagar/Resource-Utilization-Tracker.git
 cd System_Resource_Monitor
 ```
 
